@@ -1,1 +1,1 @@
-bot: python GSU.py
+web: python GSU.py
