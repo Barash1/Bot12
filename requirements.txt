@@ -1,1 +1,1 @@
-TelegramBotAPI==3.9.7
+TelegramBotAPI==3.6.6
