@@ -1,1 +1,1 @@
-worker: python GSU.py $PORT
+bot: python GSU.py
