@@ -1,1 +1,1 @@
-worker: python GSU.py
+bot: python GSU.py
