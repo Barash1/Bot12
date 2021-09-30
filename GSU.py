@@ -27,7 +27,7 @@ def Days(message):
         elif message.text == 'Среда':
             bot.send_message(message.chat.id, 'Прога(лк) (3-11)\nМеханика(лк) (3-16)\nАГиЛА (3-11)', reply_markup = markup)
         elif message.text == 'Четверг':
-            bot.send_message(message.chat.id, 'Физ-ра\nМат.анализ(пр) (3-11)\nМат.анализ(пр) (3-11)', reply_markup = markup)
+            bot.send_message(message.chat.id, 'Физ-ра\nМат.анализ(лк) (3-11)\nМат.анализ(пр) (3-11)\nМат.анализ(пр) (3-11)', reply_markup = markup)
         elif message.text == 'Пятница':
             bot.send_message(message.chat.id, 'Ин.яз (3-11)\nДискретка (3-11)\nПрога(1 подгруппа) (3-11)', reply_markup = markup)
         elif message.text == 'Суббота':
